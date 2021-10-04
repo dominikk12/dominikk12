@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dominikk12
-- 👀 I’m interested in football,basketball, hockey
+- 👋 Hi, I’m @dominikk12.
+- 👀 I’m interested in football,basketball, hockey.
 - 🌱 I’m currently studying on Technical university
      I am already have bachelo degree from Informatics.
 - 💞️ I’m looking to collaborate on some up-for-grabs issues.
